@@ -1,0 +1,5 @@
+Despues de desarrollar el problema4 se me resulto mas dificil fijarme en poner
+de manera correcta los porcentajes dentro del printf, el primer error fue que me
+olvide de pedir los nombres y cedulas, pero luego ya me fije y lo corregi, lo 
+mas importante es cada proceso para que desarrolle todo lo demas, aprendi a usar
+mejor los porcentajes y fijarme en lo que hago 

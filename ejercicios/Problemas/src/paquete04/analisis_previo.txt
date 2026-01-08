@@ -1,0 +1,6 @@
+Dentro del problema4 se usan datos que se pediran al cliente como su cedula y 
+nombre para identificar los procesos de facturacion. Dentro de los casos se 
+aplican distintas formulas para el calculo de los diferentes costos. El progra-
+define que proceso se va a hacer dependiendo de la eleccion que el usuario hace.
+Como resultado se espera generar un reporte que incluya la informacion del usua-
+rio y el monto a cancelar.
