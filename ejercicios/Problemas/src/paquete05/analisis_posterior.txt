@@ -1,0 +1,5 @@
+Dentro del problema5 lo mas importante fue comprender como crear otra matriz pa-
+ra que ahi vayan los resultados de las diferentes suma. Al principio me confundi 
+con el uso de los indices i y j, pero aprendi que son esenciales para recorrer 
+las posiciones de las matrices, lo mas importante para mi fue ver como se forman
+los arreglos bidimensionales para formar otro arreglo.
