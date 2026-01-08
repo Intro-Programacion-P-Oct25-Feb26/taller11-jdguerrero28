@@ -1,0 +1,5 @@
+Dentro del problema3 la parte mas dificil o mas compleja creo que fue crear cada
+procedimiento porque cada uno cumplia una parte fundamental en el proceso, el e-
+rror que cometi fue armar los "if" de mal manera por lo que me generaba error y 
+luego lo corregi revisandolo cuidadosamente, dentro de la solucion lo importante
+fue invocar procedimientos y con esto aprendi a usarlos de manera adecuada.

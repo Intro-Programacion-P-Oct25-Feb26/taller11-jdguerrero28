@@ -1,0 +1,5 @@
+El problema3 requiere de que inicialmente el usuario escoga que opcion desea que
+se realize, dependiendo de su eleccion se pediran los datos respectivos como di-
+mensiones de lados, bases o alturas para determinar areas de cuadrados, triangu-
+los o rectangulos. El resultado final sera la visualizacion del area de la figu-
+ra escogida inicialmente por el usuario.
