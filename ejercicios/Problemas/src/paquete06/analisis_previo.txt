@@ -1,0 +1,5 @@
+Dentro del problema6 el programa va a procesar un conjunto de numeros que van a
+ser guardados en un arreglo unidimensional. Primero se va a calcular el promedio 
+usando todos los datos y diviendo para la cantidad de datos. Con este promedio,
+se realizara otro proceso para determinar la desviacion estandar, esperando como 
+resultado la presentacion del promedio y de la desviacion estandar.

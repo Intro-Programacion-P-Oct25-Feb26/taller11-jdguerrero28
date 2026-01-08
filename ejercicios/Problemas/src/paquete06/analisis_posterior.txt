@@ -1,0 +1,5 @@
+Despues de desarrollar el problema6 he aprendido la importancia de la correspon-
+dencia entre parametros, ya que sin esto no se puede desarrollar nada. Me resul-
+un poco complejo poner la formula de la desviacion estandar en codigo pero lo co
+rregi diviendo el proceso para facilitar la comprension. Ahora tengo mas claro 
+como las funciones pueden colaborar entre si para resolver problemas complejos
