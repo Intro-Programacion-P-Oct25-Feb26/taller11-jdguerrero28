@@ -1,0 +1,5 @@
+Dentro del problema7 se solicita que el usuario defina cuantos nombre de ciuda-
+des desea ingresar para luego capturar todo por teclado. Luego, el programa debe
+analizar cada palabra de la lista para contar cuantas letras tiene, seleccionan-
+solo aquellas que tengan entre cinco y cuatro caracteres. Como resultado se im-
+primen las ciudades que cumplieron con la condicion.

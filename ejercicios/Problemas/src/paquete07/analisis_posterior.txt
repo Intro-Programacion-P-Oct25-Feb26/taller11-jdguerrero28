@@ -1,0 +1,5 @@
+Despues del desarrollo del problema7 se me hizo dificl el recordar como hacer 
+que se analice el numero de caracteres de la palabra porque no lo recordaba, co-
+meti el error de no realizar una limpieza de buffer entonces a la hora de correr
+el programa no podia y me di cuenta que faltaba eso y lo resolvi, lo mas impor-
+tante fue el condicional y aprendi a armarlo de la manera que cuente caracteres.
