@@ -20,7 +20,17 @@ public class Problema1 {
     }
 
     public static void imprimirDatos(int[][] datos) {
+        String reporte = "";
+        for (int i = 0; i < datos.length; i++) {
+            for (int j = 0; j < datos.length; j++) {
+                if (datos[i][j] % 2 == 0) {
+                    reporte = String.format("%s %s", reporte, datos[i][j]);
 
+                }
+
+            }
+        }
+        System.out.printf("Los numeros pares encontrados son: %s\n", reporte);
     }
 
 }

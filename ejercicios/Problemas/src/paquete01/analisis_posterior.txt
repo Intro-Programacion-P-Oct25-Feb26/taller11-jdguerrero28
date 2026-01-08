@@ -1,0 +1,5 @@
+Despues del desarrollo del primer problema lo mas dificil creo que fue hacer que
+el programa corra por cada fila y columna del arreglo, cometi un error dentro de
+los ciclos for ya que no puse un signo de menor que "<" y despues ya lo note y 
+lo corregi, lo mas importante de la solucion es el if para identificar los pares
+, con el ejercicio pude entender los usos del for mejor.

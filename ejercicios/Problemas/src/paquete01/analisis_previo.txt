@@ -1,0 +1,6 @@
+Dentro del Problema01 se necesita un arreglo bidimensional que ya esta dado por 
+el enunciado del problema, el proceso consiste en recorrer cada componente del 
+arreglo, donde se va a usar un condicional "if" que permitira presentar todo lo 
+que sea par dentro del arreglo, los pares iran a una cadena que acumule todo, al
+final se espera tener como resultado una impresion en pantalla que muestre los 
+numeros pares identificados dentro del arreglo. 
