@@ -1,0 +1,5 @@
+Dentro del problema5 se requiere dos arreglos bidimensionales de numeros enteros 
+con las mismas dimensiones. Se debe recorrer ambos arreglos de forma simultanea,
+sumando los valores que ocupan la misma fila y columna. Los resultados parciales
+se almacenan en un nuevo arrelo. El objetivo final es devolver el tercer arreglo
+para que pueda ser visualizado.
