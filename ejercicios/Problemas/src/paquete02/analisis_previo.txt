@@ -1,0 +1,6 @@
+El problema2 necesita los nombres de las viviendas y los valores de consumo men-
+suales que deben ser ingresados por el usuario. Se debe realizar un arreglo que
+tenga 10 filas y 12 columnas. Despues, se hara una suma anual de cada vivienda
+donde al final se espera que se muestre un reporte que tenga el nombre de cada 
+vivienda con su respectivo consumo de energia anual de cada uno usando una sola
+cadena para imprimirla.

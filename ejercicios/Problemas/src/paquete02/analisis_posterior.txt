@@ -1,0 +1,5 @@
+Lo mas dificil dentro del desarrollo del problema2 fue coordinae los indices en-
+tre el arreglo de los nombre y las filas del arreglo de consumos para que los 
+datos correspondieran de manera correcta, corregi un error inicial en la suma de
+consumo ya que no estaba sumando nada, solo tomaba el primer valor del arreglo,
+ahora pude comprender como separar por metodos el problema para la solucion.
